@@ -1,0 +1,3 @@
+☐ I want to send otp from server to the user for verification, if generated otp is same as 
+☐ user entered otp, then user can able to sign in or goes to the further.
+when user clicks on something like button or forget password, then this function will be generated
